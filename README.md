@@ -20,4 +20,9 @@
         - `git checkout main`: go back to main
         - `git switch main`: go back to main
 
-PAT TEST
+- `git remote add <NAME> <URL>`: adds the <URL> as a remote with with the name <NAME>
+    - <NAME> is by convention called `origin`
+- `git remote rm <NAME>`: is by convention called `origin`
+- `git remote -v` : look at all the remotes you have
+- `git push <WHERE> <WHAT>`: pushes the <WHAT> branch to <WHERE>
+    - `git push origin main`
