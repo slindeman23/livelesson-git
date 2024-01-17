@@ -63,4 +63,5 @@
     - `git push <WHERE> <WHAT>`
     - To update a PR, we make the changes to  the branch locally and re-`push`
 
-- merge conflicts are interseting
+- A merge conflict can happen after a PR is issued.
+
