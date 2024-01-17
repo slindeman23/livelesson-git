@@ -44,4 +44,5 @@
     - `git checkout -b <NAME>`: also create and move to branch <NAME> in 1 command
 - `git merge <BRANCH>`: merge <BRANCH> into your current branch
 - `git rebase`: command to change the history of a commit
+    - Commit from `git merge` can be automatically combined
     - `git rebase <BRANCH>`: incorporate changes from <BRANCH> into current branch
